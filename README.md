@@ -33,6 +33,10 @@ Regression analysis reveals a positive correlation between absolute order imbala
 
 Implement BVC using ThetaData historical data, enhancing market understanding and informing future trading bot strategies.
 
+### Contributors:
+- [Pavan Ananth](https://github.com/PavanAnanthSharma)
+- [Vishal Shankar](https://www.linkedin.com/in/vsankars/)
+
 **References:**
 
 1. [Easley, D., López de Prado, M. M., O’Hara, M., 2016. Discerning Information from Trade Data. Journal of Financial Economics 120,2 269-285.](https://www.sciencedirect.com/science/article/abs/pii/S0304405X16000246)
